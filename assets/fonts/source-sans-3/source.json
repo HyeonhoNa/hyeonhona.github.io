@@ -1,0 +1,30 @@
+{
+  "source": "https://raw.githubusercontent.com/adobe-fonts/source-sans/87b37a2daaed80fcb8e8ccb0085c4d72ddade12e/WOFF2/VF/SourceSans3VF-Upright.ttf.woff2",
+  "source_commit": "87b37a2daaed80fcb8e8ccb0085c4d72ddade12e",
+  "license_source": "https://raw.githubusercontent.com/adobe-fonts/source-sans/87b37a2daaed80fcb8e8ccb0085c4d72ddade12e/LICENSE.md",
+  "family": "SourceSans3VF",
+  "typographic_family": null,
+  "version": "Version 3.052;hotconv 1.1.0;makeotfexe 2.6.0",
+  "style": "normal",
+  "axes": [
+    {
+      "tag": "wght",
+      "min": 200.0,
+      "default": 200.0,
+      "max": 900.0
+    }
+  ],
+  "used_weights": [
+    400,
+    500,
+    600
+  ],
+  "file": "SourceSans3VF-Upright-full.woff2",
+  "bytes": 170188,
+  "sha256": "5f16566f7a40d39b339ad26be151fa5a1ab1f0c2574c7a2e619765584a1acbd8",
+  "source_repository": "https://github.com/adobe-fonts/source-sans",
+  "license": "SIL Open Font License 1.1",
+  "license_file": "LICENSE.md",
+  "modified": false,
+  "verification": "WOFF2 header and length validated; byte-identical to pinned official WOFF2; family, version, and variable-axis range verified from the corresponding official TTF."
+}
